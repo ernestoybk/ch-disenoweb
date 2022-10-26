@@ -250,7 +250,9 @@
  }
 
 
+
  /* ========== Home ========== */
+
  .home__container {
      row-gap: 4rem;
      padding-top: 2rem;
@@ -372,6 +374,9 @@
      font-weight: var(--font-bold);
  }
 
+
+
+ /* ========== Skills ========== */
 
 
 
